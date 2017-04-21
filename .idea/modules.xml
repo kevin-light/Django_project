@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Django_Progect.iml" filepath="$PROJECT_DIR$/.idea/Django_Progect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Alex_testing/alex_script/.idea/alex_script.iml" filepath="$PROJECT_DIR$/../Alex_testing/alex_script/.idea/alex_script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fishPractice/.idea/fishPractice.iml" filepath="$PROJECT_DIR$/../fishPractice/.idea/fishPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc/myblog/.idea/myblog.iml" filepath="$PROJECT_DIR$/imooc/myblog/.idea/myblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/.idea/test01.iml" filepath="$PROJECT_DIR$/test01/.idea/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test02/.idea/test02.iml" filepath="$PROJECT_DIR$/test02/.idea/test02.iml" />
+    </modules>
+  </component>
+</project>
